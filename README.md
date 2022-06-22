@@ -1,4 +1,4 @@
-# Spaceship Titanic
+# Spaceship Titanic 🛸 🛸 🌍 🔥 🔥
 
 ![0_NIkfTzBaBip0oi4y](https://user-images.githubusercontent.com/44786324/169670917-35262bd2-49bc-4fcf-ab04-667a296567f5.jpeg)
 
