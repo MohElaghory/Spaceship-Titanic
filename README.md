@@ -22,6 +22,29 @@ In this competition your task is to predict whether a passenger was transported 
 
 _____
 
+#### We will be applying some classification models including:
+
+1. LogisticRegression
+2. KNeighborsClassifier
+3. DecisionTreeClassifier
+4. RandomForestClassifier
+5. GradientBoostingClassifier
+6. Support Vector Machine (SVM)
+7. naive_bayes classifier (GaussianNB)
+8. SGDClassifier
+
+#### We will evaluate each model by matrices:
+
+1. mean_squared_error
+2. accuracy_score
+3. roc_auc_score
+4. recall_score
+5. precision_score
+6. f1_score
+confusion_matrix
+
+_____
+
 ![download (4)](https://user-images.githubusercontent.com/44786324/175130912-01d690ad-1fc2-431b-b824-dc890f92e94f.png)
 ![download (5)](https://user-images.githubusercontent.com/44786324/175130943-f17e6e14-0c3c-40bc-8f4d-254982048ea9.png)
 ![download (6)](https://user-images.githubusercontent.com/44786324/175130992-9e446bf4-8a0b-4ff8-b2bb-f7f95a84d79c.png)
