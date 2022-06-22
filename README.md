@@ -19,3 +19,13 @@ In this competition your task is to predict whether a passenger was transported 
 - **`RoomService`**, **`FoodCourt`**, **`ShoppingMall`**, **`Spa`**, **`VRDeck`** - Amount the passenger has billed at each of the Spaceship Titanic's many luxury amenities.
 - **`Name`** - The first and last names of the passenger.
 - **`Transported`** - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
+
+_____
+
+![download (4)](https://user-images.githubusercontent.com/44786324/175130912-01d690ad-1fc2-431b-b824-dc890f92e94f.png)
+![download (5)](https://user-images.githubusercontent.com/44786324/175130943-f17e6e14-0c3c-40bc-8f4d-254982048ea9.png)
+![download (6)](https://user-images.githubusercontent.com/44786324/175130992-9e446bf4-8a0b-4ff8-b2bb-f7f95a84d79c.png)
+![download (7)](https://user-images.githubusercontent.com/44786324/175131011-a2848e0d-f716-4b2c-a1c5-d5e9ff416160.png)
+![download (8)](https://user-images.githubusercontent.com/44786324/175131032-bc66fac3-01d5-4f6a-94b1-3436bb09209b.png)
+
+_____
